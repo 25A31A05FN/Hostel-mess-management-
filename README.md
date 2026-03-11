@@ -1,4 +1,9 @@
 # Hostel-mess-management-
+This is a console-based project for engineering students to practice and learn to program. In this hostel management system project, users can enter new students, update existing students, remove existing students, view the students' list, and manage the students' payment 
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
